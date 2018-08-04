@@ -1,13 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class asdasd extends Component {
-    render() {
-        return (
-            <div>
-                
-            </div>
-        );
-    }
+  state = {};
+  render() {
+    return <div />;
+  }
 }
 
 export default asdasd;
